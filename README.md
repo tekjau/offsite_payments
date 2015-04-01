@@ -45,6 +45,7 @@ Or, if you're using Bundler, just add the following to your Gemfile:
 * [ePay](http://www.epay.dk/epay-payment-solutions/)
 * [First Data](https://firstdata.zendesk.com/entries/407522-first-data-global-gateway-e4sm-payment-pages-integration-manual)
 * [HiTRUST](http://www.hitrust.com.hk/)
+* [MOLPay](http://www.molpay.com)
 * [Moneybookers](http://www.moneybookers.com)
 * [Nochex](http://www.nochex.com)
 * [PagSeguro](http://www.pagseguro.com.br/) - BR
